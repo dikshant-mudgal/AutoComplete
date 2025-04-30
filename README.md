@@ -2,6 +2,8 @@
 
 A lightweight command-line interface (CLI) application that provides fast and efficient word prediction as you type in your terminal. It utilizes a customizable dictionary to enhance your typing workflow.
 
+
+
 ## 🚀 Getting Started with Autocomplete
 
 This section will guide you on how to build and run the Autocomplete CLI application.
@@ -46,6 +48,10 @@ To run the Autocomplete application:
 
 ```bash
 ./autocomplete
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ⚙️ Further Configuration
 For example, if you have an option to load a custom dictionary, you might add:

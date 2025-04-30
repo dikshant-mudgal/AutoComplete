@@ -14,6 +14,8 @@ A simple C++ autocomplete project using a dictionary and trie data structure.
    g++ main.cpp -o autocomplete
 2. Run the program:
 ./autocomplete
+
+
 🧠 Features
 Fast word prediction
 

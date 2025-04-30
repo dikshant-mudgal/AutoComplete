@@ -34,14 +34,13 @@ This will launch the command-line interface.
 ⚡ Fast Word Prediction: Experience rapid and accurate word suggestions as you type.
 ⚙️ Customizable Dictionary: Tailor the application to your specific needs by utilizing a customizable dictionary.
 <0xF0><0x9F><0x97><0x8A>️ Lightweight CLI App: Enjoy a fast and efficient command-line experience without unnecessary overhead.
-⚙️ Further Configuration (Optional)
-(Consider adding this section if your application has any configuration options, like specifying a custom dictionary file.)
-
+⚙️ Further Configuration
 For example, if you have an option to load a custom dictionary, you might add:
 
 Bash
 
 ./autocomplete --dictionary custom_words.txt
+
 Refer to the help documentation (./autocomplete --help or -h) for a full list of available options.
 
 ❓ Troubleshooting

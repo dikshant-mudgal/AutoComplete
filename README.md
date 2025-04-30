@@ -1,3 +1,7 @@
+# AutoComplete
+
+A lightweight command-line interface (CLI) application that provides fast and efficient word prediction as you type in your terminal. It utilizes a customizable dictionary to enhance your typing workflow.
+
 ## 🚀 Getting Started with Autocomplete
 
 This section will guide you on how to build and run the Autocomplete CLI application.
@@ -30,10 +34,19 @@ Once the compilation is successful, you can run the Autocomplete application usi
 
 This will launch the command-line interface.
 
-✨ Key Features
-⚡ Fast Word Prediction: Experience rapid and accurate word suggestions as you type.
-⚙️ Customizable Dictionary: Tailor the application to your specific needs by utilizing a customizable dictionary.
-<0xF0><0x9F><0x97><0x8A>️ Lightweight CLI App: Enjoy a fast and efficient command-line experience without unnecessary overhead.
+## ✨ Key Features
+
+* ⚡ **Fast Word Prediction:** Experience rapid and accurate word suggestions as you type, significantly improving your typing speed and reducing errors in the terminal.
+* ⚙️ **Customizable Dictionary:** Tailor the word predictions to your specific needs by providing your own dictionary file. This allows you to include specialized vocabulary relevant to your work or interests.
+* <0xF0><0x9F><0x97><0x8A>️ **Lightweight CLI App:** Enjoy a fast and efficient command-line tool with minimal resource consumption, ensuring it runs smoothly without impacting your system's performance.
+
+## 🛠️ Usage
+
+To run the Autocomplete application:
+
+```bash
+./autocomplete
+
 ⚙️ Further Configuration
 For example, if you have an option to load a custom dictionary, you might add:
 

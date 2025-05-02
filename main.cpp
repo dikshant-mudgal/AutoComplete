@@ -78,7 +78,7 @@ int main() {
     Trie trie;
 
     // Load dictionary
-    ifstream file("dictionary.txt");
+    ifstream file("words.txt");
     if (!file.is_open()) {
         cerr << "Error: Could not open dictionary.txt\n";
         return 1;

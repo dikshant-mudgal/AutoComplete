@@ -50,7 +50,7 @@ To run the Autocomplete application:
 ./autocomplete
 
 ## 📷 Screenshot
-![AutoComplete Instanstiated](RunTime.png)
+<img src="RunTime.png" alt="AutoComplete Instantiated">
 
 ## 📄 License
 

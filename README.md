@@ -50,8 +50,7 @@ To run the Autocomplete application:
 ./autocomplete
 
 ## 📷 Screenshot
-<img src="RunTime.png" alt="AutoComplete Instantiated">
-
+![AutoComplete Instantiated](https://github.com/dikshant-mudgal/AutoComplete/blob/068b03941f67f53c053502dd6ea6f578ddd1b36c/RunTime.png)
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

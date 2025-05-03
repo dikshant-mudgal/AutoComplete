@@ -33,6 +33,7 @@ Once the compilation is successful, you can run the Autocomplete application usi
 
 ```bash
 ./autocomplete
+```
 
 This will launch the command-line interface.
 
@@ -48,6 +49,7 @@ To run the Autocomplete application:
 
 ```bash
 ./autocomplete
+```
 
 ## 📷 Screenshot
 ![AutoComplete Instantiated](https://github.com/dikshant-mudgal/AutoComplete/blob/068b03941f67f53c053502dd6ea6f578ddd1b36c/RunTime.png)

@@ -62,8 +62,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For example, if you have an option to load a custom dictionary, you might add:
 
 Bash
-
+```
 ./autocomplete --dictionary custom_words.txt
+```
 
 Refer to the help documentation (./autocomplete --help or -h) for a full list of available options.
 
